@@ -16,7 +16,7 @@ uniform vec3 fogColor = vec3(0.61, 0.78, 1.0);
 // Lighting uniforms
 uniform vec3 sunDirection = normalize(vec3(-0.5, -1.0, -0.5));
 uniform vec3 lightColor = vec3(1.0, 0.96, 0.91);
-uniform vec3 ambientColor = vec3(0.75, 0.97, 1.0);
+uniform vec3 ambientColor = vec3(0.75, 0.77, 1.0);
 uniform float lightIntensity = 1.2;
 
 // Phong-specific uniforms
