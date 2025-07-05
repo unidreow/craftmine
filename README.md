@@ -12,6 +12,6 @@ CraftMine is a Minecraft Clone, written as a school Project for Computer Science
 - Relativly fast rendering
 
 ## Screenshots
-<img src="./mountain.png" alt="showcase of vast mountains and renderdistance" width="500"/>
-<img src="./jungleocean.png" alt="view from jungle across an ocean" width="500"/>
-<img src="./normalmaps.png" alt="Showing off normal maps" width="500"/>
+<img src="./screenshots/mountain.png" alt="showcase of vast mountains and renderdistance" width="500"/>
+<img src="./screenshots/jungleocean.png" alt="view from jungle across an ocean" width="500"/>
+<img src="./screenshots/normalmaps.png" alt="Showing off normal maps" width="500"/>
